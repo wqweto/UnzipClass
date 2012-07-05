@@ -1,0 +1,8 @@
+## VB6 workspace
+
+*.vbw
+*.bak
+*.log
+_del
+*.zip
+test_unpack
